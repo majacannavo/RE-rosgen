@@ -99,7 +99,7 @@
                 <value>cl</value>
             </parameter>
             <parameter name="vertices">
-                <value>20</value>
+                <value>100</value>
             </parameter>
         </task>
     </action>
