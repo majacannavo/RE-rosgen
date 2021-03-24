@@ -46,13 +46,18 @@ Kasprak et al. classified this location (CHaMP site ID CBW05583-290034) as strea
 
 ![Figure 4.](valley centerlines img)
 
-![Figure 5.](long profile graph w elevation img)
+![Figure 5.](longprof_elevation_graph.png)
 
-![Figure 6.](long profile graph w slope img)
+![Figure 6.](longprof_slope_graph.png)
 
-![Figure 7.](cross-sectional profile graph img)
+![Figure 7.](longprof_slopebydist_graph.png)
+
+![Figure 8.](crossprofile_withline_graph.png)
+
+![Figure 9.](determining_floodpronewidth_graph.png)
 
 Table 1. Site Measurements
+
 | Variable | Value | Source |
 | :-: | :-: | :-: |
 | Mean Bankfull Width | 17.17 | CHaMP |
@@ -65,7 +70,8 @@ Table 1. Site Measurements
 | Median Channel Material Particle Diameter (mm) | 61 | CHaMP |
 
 Table 2. Rosgen Level I Classification
-| Criteria | Value |
+
+| Criterion | Value |
 | :-: | :-: |
 | Entrenchment Ratio | 5.475 |
 | Width / Depth Ratio | 38.44 |
@@ -73,7 +79,8 @@ Table 2. Rosgen Level I Classification
 | Level I Stream Type | C |
 
 Table 3. Rosgen Level II Classification
-| Criteria | Value |
+
+| Criterion | Value |
 | :-: | :-: |
 | Slope (ratio) | 0.00467 |
 | Channel Material | Gravel |
