@@ -2,3 +2,7 @@ path,name,format,sources,metadata files
 raw/public/CHaMP_Data_MFJD.shp,CHaMP Data,shapefile,,readme.md; MFJD_Variables.csv
 raw/private/JohnDayWShed.tif,John Day Watershed LiDAR,geotiff,,readme.md; Camp_Creek_Lidar_Report_2008.pdf; 2008_OLC_Camp_Creek_Acceptance_Report.pdf
 raw/private/JohnDayWShed_OrthoPrj.tif,John Day Watershed Orthophoto,geotiff,,readme.md
+derived/public/longpoints.txt,Longitudinal Points,simple text,created in GRASS,N/A
+derived/public/longprof.txt,Longitudinal Profile,simple text,created in GRASS,N/A
+derived/public/crosspoints.txt,Cross-Sectional Points,simple text,created in GRASS,N/A
+derived/public/crossprof.txt,Cross-Sectional Profile,simple text,created in GRASS,N/A
